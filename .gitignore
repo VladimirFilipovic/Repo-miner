@@ -1,3 +1,6 @@
+data
+repos
+
 # Logs
 logs
 *.log
@@ -26,3 +29,5 @@ dist-ssr
 *.env
 
 data
+/data
+data/*

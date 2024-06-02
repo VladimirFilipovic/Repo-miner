@@ -55,3 +55,5 @@ const languagesCount = results.reduce(
 
 // Save json file
 writeFile("languages.json", JSON.stringify(languagesCount, null, 2));
+
+// fml

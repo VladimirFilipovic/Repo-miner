@@ -1,21 +1,64 @@
 import cluster from "cluster";
 import { readdir, writeFile } from "fs/promises";
 import linguistAnalyse from "linguist-js";
-import { Language, Options } from "linguist-js/dist/types";
+import { Language, Options, Results } from "linguist-js/dist/types";
 import { inspect } from "util";
 
 // Take directory from command line arguments
-const defaultDirectory = "../data/4-prt";
+const defaultDirectory = "../data/3rd-part/";
 const directory = process.argv[2] || defaultDirectory;
 
 // Read directory and make array of folders
 const repoFolders = await readdir(directory);
-const repoPaths = repoFolders.map((folder) => `${directory}/${folder}`);
+const repoPaths = repoFolders
+  .filter((repoFolder) => repoFolder.toLocaleLowerCase() !== ".ds_store")
+  .map((folder) => `${directory}/${folder}`);
 
 // Analyse each folder
 const options: Options = {
   keepVendored: false,
   quick: false,
+  ignoredFiles: [
+    "**/*/assets",
+    "**/*/data",
+    "**/*/Data",
+    "**/*/results",
+    "**/*/temp",
+    "**/*/Build",
+    "**/*/build",
+    "**/*/libs",
+    "**/*/lib",
+    "**/*/libraries",
+    "**/*/Libraries",
+    "**/*/docs",
+    "**/*/example",
+    "**/*/examples",
+    "**/*/test",
+    "**/*/tests",
+    "results/**/*",
+    "lib/**/*",
+    "lib/**/*",
+    "example/**/*",
+    "test/**/*",
+    "**/*.tgz",
+    "**/*.lhe",
+    "**/*.csv",
+    "**/*.png",
+    "**/*.svg",
+    "**/*.txt",
+    "**/*.pdf",
+    "**/*.ddl",
+    "**/*.ttf",
+    "**/*.nupkg",
+    "**/*.css",
+    "**/*.ico",
+    "**/*.wav",
+    "**/*.tdf",
+    "**/*.html",
+    "**/*.HTML",
+    "**/*.xlsx",
+    "**/*.node_modules",
+  ],
   ignoredLanguages: [
     "INI",
     "SVG",
@@ -36,12 +79,14 @@ const options: Options = {
     "RMarkdown",
     "Vim Help File",
     "Org",
+    "Gerber Image",
+    "OpenAPI Specification v2",
   ],
 };
 
 const results: string[] = [];
 
-const batches = 50;
+const batches = 100;
 
 const batchedRepoPaths = Array.from({ length: batches }, (_, i) => {
   return repoPaths.slice(
@@ -56,7 +101,15 @@ for (const batch of batchedRepoPaths) {
   }
   const batchResults = await Promise.all(
     batch.map(async (path) => {
-      const result = await linguistAnalyse(path, options);
+      console.log("Analysing batch ", batch);
+      let result: Results;
+      try {
+        result = await linguistAnalyse(path, options);
+      } catch (error) {
+        console.error(error);
+        console.error("Error on " + path);
+        return "Unknown";
+      }
       const dominantLanguage = Object.keys(result.languages.results).sort(
         (a, b) =>
           result.languages.results[b].bytes - result.languages.results[a].bytes

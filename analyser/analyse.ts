@@ -5,7 +5,7 @@ import { Language, Options, Results } from "linguist-js/dist/types";
 import { inspect } from "util";
 
 // Take directory from command line arguments
-const defaultDirectory = "../data/3rd-part/";
+const defaultDirectory = "../data/repos/1-part";
 const directory = process.argv[2] || defaultDirectory;
 
 // Read directory and make array of folders
@@ -64,9 +64,12 @@ const options: Options = {
     "SVG",
     "CMake",
     "Markdown",
+    "MiniYAML",
+    "XML",
     "reStructuredText",
     "TeX",
     "HTML",
+    "Nix",
     "CSS",
     "Text",
     "GCC Machine Description",
@@ -74,6 +77,7 @@ const options: Options = {
     "Makefile",
     "Vim Snippet",
     "YAML",
+    "PlantUML",
     "CSV",
     "Adblock Filter List",
     "RMarkdown",
@@ -81,12 +85,13 @@ const options: Options = {
     "Org",
     "Gerber Image",
     "OpenAPI Specification v2",
+    "Unity3D Asset",
   ],
 };
 
 const results: string[] = [];
 
-const batches = 100;
+const batches = 600;
 
 const batchedRepoPaths = Array.from({ length: batches }, (_, i) => {
   return repoPaths.slice(

@@ -91,6 +91,8 @@ const options: Options = {
 
 const results: string[] = [];
 
+const repoLanguages: Record<string, string> = {};
+
 const batches = 600;
 
 const batchedRepoPaths = Array.from({ length: batches }, (_, i) => {
@@ -106,6 +108,7 @@ for (const batch of batchedRepoPaths) {
   }
   const batchResults = await Promise.all(
     batch.map(async (path) => {
+      const repoName = path.split("/").pop() || "";
       console.log("Analysing batch ", batch);
       let result: Results;
       try {
@@ -113,6 +116,7 @@ for (const batch of batchedRepoPaths) {
       } catch (error) {
         console.error(error);
         console.error("Error on " + path);
+        repoLanguages[repoName] = "Unknown";
         return "Unknown";
       }
       const dominantLanguage = Object.keys(result.languages.results).sort(
@@ -120,8 +124,10 @@ for (const batch of batchedRepoPaths) {
           result.languages.results[b].bytes - result.languages.results[a].bytes
       )[0];
       if (dominantLanguage === "undefined" || dominantLanguage === undefined) {
+        repoLanguages[repoName] = "Unknown";
         return "Unknown";
       }
+      repoLanguages[repoName] = dominantLanguage;
       return dominantLanguage;
     })
   );
@@ -139,4 +145,5 @@ const languagesCount = results
 // Save json file
 writeFile("languages.json", JSON.stringify(languagesCount, null, 2));
 
-// fml
+// Save repo and its language into repo-languages.json
+writeFile("repo-languages1.json", JSON.stringify(repoLanguages, null, 2));

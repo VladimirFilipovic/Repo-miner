@@ -305,3 +305,5 @@ ui-tests/.pnp.*
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+*plot-repos

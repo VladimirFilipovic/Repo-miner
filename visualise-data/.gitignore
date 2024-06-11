@@ -307,3 +307,4 @@ ui-tests/.pnp.*
 */.ipynb_checkpoints/*
 
 *plot-repos
+*dev-env

@@ -3,13 +3,18 @@
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/glob": "^8.1.0",
+    "@types/jaro-winkler": "^0.2.3",
     "@types/node": "^20.13.0",
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "compromise": "^14.13.0",
     "fast-folder-size": "^2.2.0",
+    "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
     "glob": "^10.4.1",
-    "linguist-js": "^2.7.1"
+    "jaro-winkler": "^0.2.8",
+    "linguist-js": "^2.7.1",
+    "natural": "^7.0.6"
   }
 }

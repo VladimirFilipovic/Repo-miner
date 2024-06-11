@@ -1,0 +1,46 @@
+{
+  "zoran-cuckovic": {
+    "assignedCategory": "Quantum Communication",
+    "categoryScores": {
+      "General Quantum Algorithms": 22,
+      "Grover's Algorithm": 18,
+      "Shor's Algorithm": 30,
+      "Variational Quantum Eigensolver (VQE)": 15,
+      "Quantum Approximate Optimization Algorithm (QAOA)": 26,
+      "HHL Algorithm": 39,
+      "Deutsch-Jozsa Algorithm": 15,
+      "Simon's Algorithm": 15,
+      "General Quantum Cryptography": 7,
+      "Quantum key distirbution ": 3,
+      "Quantum Simulation": 13,
+      "Quantum Hardware": 17,
+      "Quantum Machine Learning": 60,
+      "Quantum Communication": 62,
+      "Quantum Computer Tooling and Frameworks": 2,
+      "Quantum Computer Simulation": 10,
+      "Learning Project": 11
+    }
+  },
+  "zqzess": {
+    "assignedCategory": "General Quantum Algorithms",
+    "categoryScores": {
+      "General Quantum Algorithms": 58,
+      "Grover's Algorithm": 57,
+      "Shor's Algorithm": 8,
+      "Variational Quantum Eigensolver (VQE)": 0,
+      "Quantum Approximate Optimization Algorithm (QAOA)": 5,
+      "HHL Algorithm": 0,
+      "Deutsch-Jozsa Algorithm": 0,
+      "Simon's Algorithm": 1,
+      "General Quantum Cryptography": 17,
+      "Quantum key distirbution ": 4,
+      "Quantum Simulation": 5,
+      "Quantum Hardware": 1,
+      "Quantum Machine Learning": 54,
+      "Quantum Communication": 25,
+      "Quantum Computer Tooling and Frameworks": 1,
+      "Quantum Computer Simulation": 2,
+      "Learning Project": 0
+    }
+  }
+}

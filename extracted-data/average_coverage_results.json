@@ -1,0 +1,20 @@
+{
+    "Learning Project": 5.982376937916789,
+    "Quantum Simulation": 7.654783367940213,
+    "No match found": 1.5088933534468516,
+    "Quantum Machine Learning": 5.692892602264617,
+    "General Quantum Algorithms": 5.87855562169799,
+    "Quantum Hardware": 0.2138652244889649,
+    "General Quantum Cryptography": 3.6101581405469862,
+    "Quantum Computer Tooling and Frameworks": 5.693393920181792,
+    "Quantum Computer Simulation": 6.6533920738575985,
+    "Deutsch-Jozsa Algorithm": 6.483573933684373,
+    "Quantum Key Distribution": 8.057085486304697,
+    "Shor's Algorithm": 5.363128227114811,
+    "Quantum Approximate Optimization Algorithm (QAOA)": 5.176813791361242,
+    "Variational Quantum Eigensolver (VQE)": 13.128554032465283,
+    "Quantum Communication": 4.761366010653741,
+    "Grover's Algorithm": 0.0218533182862964,
+    "HHL Algorithm": 4.271775345073774,
+    "Simon's Algorithm": 0.7684918347742555
+}

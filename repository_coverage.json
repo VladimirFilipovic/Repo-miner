@@ -1,0 +1,2294 @@
+{
+  "0tt3r": {
+    "comment_coverage": 15.51820337564514
+  },
+  "1234zou": {
+    "comment_coverage": 5.74113107784645
+  },
+  "3T": {
+    "comment_coverage": 0.0
+  },
+  "510004015": {
+    "comment_coverage": 12.072072072072073
+  },
+  "7enTropy7": {
+    "comment_coverage": 0.0
+  },
+  "89996462": {
+    "comment_coverage": 26.242072839282475
+  },
+  "aa75017730": {
+    "comment_coverage": 7.253320395415125
+  },
+  "aarontrowbridge": {
+    "comment_coverage": 0.0
+  },
+  "abdullahkhalids": {
+    "comment_coverage": 0.0
+  },
+  "absolute-quantum": {
+    "comment_coverage": 2.552506279180856
+  },
+  "acheong08": {
+    "comment_coverage": 2.2242817423540315
+  },
+  "AdhesionTek": {
+    "comment_coverage": 9.446139108074721
+  },
+  "advancesoftcorp": {
+    "comment_coverage": 11.368568717250485
+  },
+  "AgnostiqHQ": {
+    "comment_coverage": 5.887381527597101
+  },
+  "AI4Finance-Foundation": {
+    "comment_coverage": 4.141889446196805
+  },
+  "aiidateam": {
+    "comment_coverage": 3.0296485977848393
+  },
+  "ajz34": {
+    "comment_coverage": 0.0
+  },
+  "alejomonbar": {
+    "comment_coverage": 0.0
+  },
+  "alexandersgreen": {
+    "comment_coverage": 5.697781278718655
+  },
+  "alibaba": {
+    "comment_coverage": 0.8426815522516236
+  },
+  "Alice-Bob-SW": {
+    "comment_coverage": 7.189795129493621
+  },
+  "alpha87": {
+    "comment_coverage": 19.230769230769234
+  },
+  "amartyabose": {
+    "comment_coverage": 1.0640813431071177
+  },
+  "amazon-braket": {
+    "comment_coverage": 2.2141652154984763
+  },
+  "amazon-braket-examples": {
+    "comment_coverage": 0.6329113924050633
+  },
+  "amcdawes": {
+    "comment_coverage": 0.0
+  },
+  "AminKaramlou": {
+    "comment_coverage": 0.0
+  },
+  "amschel99": {
+    "comment_coverage": 2.5337837837837838
+  },
+  "amyami187": {
+    "comment_coverage": 0.0
+  },
+  "Andrew-S-Rosen": {
+    "comment_coverage": 1.7843071034560394
+  },
+  "anedumla": {
+    "comment_coverage": 4.438694267515923
+  },
+  "Anish-M-code": {
+    "comment_coverage": 1.3632232656770675
+  },
+  "anonymousr007": {
+    "comment_coverage": 0.0
+  },
+  "Antimonit": {
+    "comment_coverage": 6.044444444444444
+  },
+  "antontutoveanu": {
+    "comment_coverage": 5.911004705688104
+  },
+  "anyehttp": {
+    "comment_coverage": 6.996600841696342
+  },
+  "aoterodelaroza": {
+    "comment_coverage": 6.077314778822981
+  },
+  "Apress": {
+    "comment_coverage": 21.568627450980394
+  },
+  "Argyle-Software": {
+    "comment_coverage": 2.8201030811820575
+  },
+  "ArlineQ": {
+    "comment_coverage": 8.163349574696507
+  },
+  "aromanro": {
+    "comment_coverage": 6.629654352745804
+  },
+  "artificial-brain": {
+    "comment_coverage": 6.132966844184848
+  },
+  "artificial-scientist-lab": {
+    "comment_coverage": 2.253468665611323
+  },
+  "artiste-qb-net": {
+    "comment_coverage": 0.0
+  },
+  "aryashah2k": {
+    "comment_coverage": 0.0
+  },
+  "atilafassina": {
+    "comment_coverage": 10.483870967741936
+  },
+  "atulvarshneya": {
+    "comment_coverage": 4.111167110663114
+  },
+  "Aurelien-Pelissier": {
+    "comment_coverage": 4.881889763779528
+  },
+  "AustenLamacraft": {
+    "comment_coverage": 19.534457680481655
+  },
+  "Avarok-Cybersecurity": {
+    "comment_coverage": 3.497147761118683
+  },
+  "awhite862": {
+    "comment_coverage": 0.4118521908248484
+  },
+  "aws-samples": {
+    "comment_coverage": 0.0
+  },
+  "awslabs": {
+    "comment_coverage": 7.370336669699727
+  },
+  "badlogic": {
+    "comment_coverage": 2.835335432621908
+  },
+  "bagmk": {
+    "comment_coverage": 0.0
+  },
+  "baidu": {
+    "comment_coverage": 4.863119022032762
+  },
+  "BAQIS-Quantum": {
+    "comment_coverage": 3.0468221771467205
+  },
+  "bartubisgin": {
+    "comment_coverage": 0.0
+  },
+  "BBN-Q": {
+    "comment_coverage": 1.5527950310559007
+  },
+  "BeerMoneyDev": {
+    "comment_coverage": 1.7890772128060264
+  },
+  "ben-albrecht": {
+    "comment_coverage": 3.8178996378685977
+  },
+  "bernwo": {
+    "comment_coverage": 0
+  },
+  "betakernel": {
+    "comment_coverage": 3.5457451058729523
+  },
+  "binghuang2018": {
+    "comment_coverage": 3.755634953655053
+  },
+  "bjader": {
+    "comment_coverage": 2.313697657913414
+  },
+  "block-hczhai": {
+    "comment_coverage": 13.128554032465283
+  },
+  "bmedicke": {
+    "comment_coverage": 0.0
+  },
+  "bol-edu": {
+    "comment_coverage": 10.4492969017949
+  },
+  "BoltzmannEntropy": {
+    "comment_coverage": 0.0
+  },
+  "BoothGroup": {
+    "comment_coverage": 2.0750401690719857
+  },
+  "boschmitt": {
+    "comment_coverage": 10.888512827455493
+  },
+  "Boulder-Cryogenic-Quantum-Testbed": {
+    "comment_coverage": 1.7857142857142856
+  },
+  "BQSKit": {
+    "comment_coverage": 1.0187551146517027
+  },
+  "brucefan1983": {
+    "comment_coverage": 0.0
+  },
+  "brunojulia": {
+    "comment_coverage": 6.144055970079824
+  },
+  "brunorijsman": {
+    "comment_coverage": 2.5877192982456143
+  },
+  "bsenjean": {
+    "comment_coverage": 0.0
+  },
+  "Budapest-Quantum-Computing-Group": {
+    "comment_coverage": 3.9852584351966307
+  },
+  "bwesterb": {
+    "comment_coverage": 3.2471522427565347
+  },
+  "bytedance": {
+    "comment_coverage": 3.6478520967104973
+  },
+  "BYUCamachoLab": {
+    "comment_coverage": 3.6510979435343325
+  },
+  "cailab-tamu": {
+    "comment_coverage": 0.0
+  },
+  "camitava0321": {
+    "comment_coverage": 0.0
+  },
+  "caphindsight": {
+    "comment_coverage": 0.6858013716027432
+  },
+  "carstenbauer": {
+    "comment_coverage": 6.570879140814919
+  },
+  "carstenblank": {
+    "comment_coverage": 11.096520026263953
+  },
+  "catho": {
+    "comment_coverage": 0.2972749793559042
+  },
+  "ccicconetti": {
+    "comment_coverage": 2.1969926766910777
+  },
+  "cda-tum": {
+    "comment_coverage": 4.2523290341591675
+  },
+  "cduck": {
+    "comment_coverage": 0.5190311418685121
+  },
+  "CERN": {
+    "comment_coverage": 0.0
+  },
+  "CERN-IT-INNOVATION": {
+    "comment_coverage": 1.189083820662768
+  },
+  "cgoo4": {
+    "comment_coverage": 0
+  },
+  "cgranade": {
+    "comment_coverage": 6.6014855237229035
+  },
+  "chetanbhat": {
+    "comment_coverage": 1.000709723207949
+  },
+  "chpxu": {
+    "comment_coverage": 8.647140864714087
+  },
+  "Christophe-pere": {
+    "comment_coverage": 0.0
+  },
+  "christorange": {
+    "comment_coverage": 2.6103646833013436
+  },
+  "cisasteelersfan": {
+    "comment_coverage": 1.1695906432748537
+  },
+  "Classiq": {
+    "comment_coverage": 0.0
+  },
+  "cloudflare": {
+    "comment_coverage": 16.17457696444532
+  },
+  "Cloudslab": {
+    "comment_coverage": 11.623645954979262
+  },
+  "ClydeTime": {
+    "comment_coverage": 6.111322429314061
+  },
+  "cmendl": {
+    "comment_coverage": 9.58483952240114
+  },
+  "cmsi": {
+    "comment_coverage": 0
+  },
+  "cohensbw": {
+    "comment_coverage": 6.035272878766838
+  },
+  "Colfenor": {
+    "comment_coverage": 4.9743438899238495
+  },
+  "CompPhysics": {
+    "comment_coverage": 0.0
+  },
+  "contepablod": {
+    "comment_coverage": 0.0
+  },
+  "corbett": {
+    "comment_coverage": 5.022376926902039
+  },
+  "corigan01": {
+    "comment_coverage": 24.31898153639347
+  },
+  "cp2k": {
+    "comment_coverage": 1.0744895386942275
+  },
+  "CQCL": {
+    "comment_coverage": 1.4325398434648606
+  },
+  "CQuIC": {
+    "comment_coverage": 0.0
+  },
+  "CrawfordGroup": {
+    "comment_coverage": 2.227498869289914
+  },
+  "crazy4pi314": {
+    "comment_coverage": 0.0
+  },
+  "Crivella": {
+    "comment_coverage": 2.7613412228796843
+  },
+  "croppers": {
+    "comment_coverage": 0.0
+  },
+  "crossutility": {
+    "comment_coverage": 36.120996441281136
+  },
+  "cryptosubtlety": {
+    "comment_coverage": 0.0
+  },
+  "ctuning": {
+    "comment_coverage": 3.288271830471319
+  },
+  "cyllab": {
+    "comment_coverage": 0.3089674318486244
+  },
+  "czy13724": {
+    "comment_coverage": 5.359441319125674
+  },
+  "dabacon": {
+    "comment_coverage": 0.0
+  },
+  "dakk": {
+    "comment_coverage": 4.697444186281443
+  },
+  "dalcorso": {
+    "comment_coverage": 0.0
+  },
+  "DarkStarStrix": {
+    "comment_coverage": 2.398164084911073
+  },
+  "dartmouth-cs98": {
+    "comment_coverage": 0.039573536943060664
+  },
+  "Dashlane": {
+    "comment_coverage": 2.6457883369330455
+  },
+  "dauphine-dev": {
+    "comment_coverage": 1.2574434873099383
+  },
+  "David20122": {
+    "comment_coverage": 1.6849253635722978
+  },
+  "davidbkemp": {
+    "comment_coverage": 0.8559201141226819
+  },
+  "davidbuterez": {
+    "comment_coverage": 0.9072367958365567
+  },
+  "DavitKhach": {
+    "comment_coverage": 0.0
+  },
+  "dceresoli": {
+    "comment_coverage": 9.51634202707164
+  },
+  "deepchem": {
+    "comment_coverage": 1.7167247523201628
+  },
+  "deepqmc": {
+    "comment_coverage": 0.7221776433553484
+  },
+  "DeepQuantumNeuralNetworks": {
+    "comment_coverage": 0.0
+  },
+  "deezertidal": {
+    "comment_coverage": 2.6378896882494005
+  },
+  "delapuente": {
+    "comment_coverage": 4.962686567164179
+  },
+  "DelMaestroGroup": {
+    "comment_coverage": 12.54753251118721
+  },
+  "denvitko": {
+    "comment_coverage": 2.3255813953488373
+  },
+  "DesignrKnight": {
+    "comment_coverage": 5.619498984427895
+  },
+  "desireevl": {
+    "comment_coverage": 1.218715995647443
+  },
+  "detrin": {
+    "comment_coverage": 24.680383893473103
+  },
+  "developer-student-club-thapar": {
+    "comment_coverage": 0.0
+  },
+  "dibondar": {
+    "comment_coverage": 0.0
+  },
+  "diffqc": {
+    "comment_coverage": 5.104664856160927
+  },
+  "DikshantDulal": {
+    "comment_coverage": 0.0
+  },
+  "diracq": {
+    "comment_coverage": 0.0
+  },
+  "dot-open": {
+    "comment_coverage": 5.809710917765928
+  },
+  "DPotoyan": {
+    "comment_coverage": 0.0
+  },
+  "DRA-chaos": {
+    "comment_coverage": 0.0
+  },
+  "dsh0416": {
+    "comment_coverage": 0.0
+  },
+  "dsvip": {
+    "comment_coverage": 4.336425616431878
+  },
+  "DVLab-NTU": {
+    "comment_coverage": 0.0
+  },
+  "dwave-examples": {
+    "comment_coverage": 9.550561797752808
+  },
+  "dwavesystems": {
+    "comment_coverage": 39.39393939393939
+  },
+  "dylan-jayatilaka": {
+    "comment_coverage": 11.667139211794726
+  },
+  "dynamiqs": {
+    "comment_coverage": 2.8897899004791743
+  },
+  "dynexcoin": {
+    "comment_coverage": 10.865697712030707
+  },
+  "echkon": {
+    "comment_coverage": 0.0
+  },
+  "eclipse-qrisp": {
+    "comment_coverage": 4.36314736356051
+  },
+  "Edric-Matwiejew": {
+    "comment_coverage": 0.8871585396987491
+  },
+  "elecV2": {
+    "comment_coverage": 24.579124579124578
+  },
+  "elisezhu123": {
+    "comment_coverage": 0.0
+  },
+  "emirhanai": {
+    "comment_coverage": 0.0
+  },
+  "Emotion-Prediction-with-Quantum5-Neural-Network-AI-Machine-Learning": {
+    "comment_coverage": 0.0
+  },
+  "enchanted123": {
+    "comment_coverage": 3.4629861982434127
+  },
+  "Entanglion": {
+    "comment_coverage": 0.0
+  },
+  "entropicalabs": {
+    "comment_coverage": 2.905129369042215
+  },
+  "epelaaez": {
+    "comment_coverage": 0.0
+  },
+  "ericardomuten": {
+    "comment_coverage": 0.0
+  },
+  "ericchansen": {
+    "comment_coverage": 4.504409690795428
+  },
+  "ertuil": {
+    "comment_coverage": 6.816561557444476
+  },
+  "euphoricrhino": {
+    "comment_coverage": 2.056512288914897
+  },
+  "evaleev": {
+    "comment_coverage": 0.0
+  },
+  "evanhockings": {
+    "comment_coverage": 2.734198219942676
+  },
+  "EverettYou": {
+    "comment_coverage": 0.0
+  },
+  "evilbutcher": {
+    "comment_coverage": 4.446447663570995
+  },
+  "ewt-project": {
+    "comment_coverage": 7.643775782577045
+  },
+  "exaexa": {
+    "comment_coverage": 12.393710263991
+  },
+  "exo7math": {
+    "comment_coverage": 12.277276055650475
+  },
+  "EyalRozenberg1": {
+    "comment_coverage": 0.7038904213830496
+  },
+  "Fanerst": {
+    "comment_coverage": 0.0218533182862964
+  },
+  "fbm2718": {
+    "comment_coverage": 2.6566316104271546
+  },
+  "fbuessen": {
+    "comment_coverage": 3.6948829613500274
+  },
+  "fedimser": {
+    "comment_coverage": 0.5431830526887561
+  },
+  "FermiQC": {
+    "comment_coverage": 3.068825910931174
+  },
+  "fevangelista": {
+    "comment_coverage": 0.0
+  },
+  "fiasqo-io": {
+    "comment_coverage": 0.0
+  },
+  "FiloSottile": {
+    "comment_coverage": 3.87858347386172
+  },
+  "fisherstevenk": {
+    "comment_coverage": 10.6323356211672
+  },
+  "flynnbr11": {
+    "comment_coverage": 1.191274575553281
+  },
+  "foxyproxy": {
+    "comment_coverage": 6.3713116894420745
+  },
+  "frankforte": {
+    "comment_coverage": 3.45203488372093
+  },
+  "FujiiLabCollaboration": {
+    "comment_coverage": 0.0
+  },
+  "fvmassoli": {
+    "comment_coverage": 0.0
+  },
+  "garymooney": {
+    "comment_coverage": 2.425687044307347
+  },
+  "gdsfactory": {
+    "comment_coverage": 1.5571380849706944
+  },
+  "gecrooks": {
+    "comment_coverage": 2.7136360951987246
+  },
+  "gedaskir": {
+    "comment_coverage": 1.8238993710691824
+  },
+  "gendx": {
+    "comment_coverage": 4.650309000795447
+  },
+  "geosim": {
+    "comment_coverage": 6.2317931443400845
+  },
+  "ghb24": {
+    "comment_coverage": 0.0
+  },
+  "gigabit101": {
+    "comment_coverage": 2.19445652603693
+  },
+  "GiggleLiu": {
+    "comment_coverage": 1.4332965821389196
+  },
+  "gitkarma": {
+    "comment_coverage": 0.0
+  },
+  "glassnotes": {
+    "comment_coverage": 0.0
+  },
+  "GN006": {
+    "comment_coverage": 3.6831587429492343
+  },
+  "gncs": {
+    "comment_coverage": 2.7085348612247935
+  },
+  "goodchemistryco": {
+    "comment_coverage": 5.04269373288223
+  },
+  "google": {
+    "comment_coverage": 3.697979909482283
+  },
+  "goropikari": {
+    "comment_coverage": 0.0
+  },
+  "GQCG": {
+    "comment_coverage": 22.23573657677843
+  },
+  "GregDMeyer": {
+    "comment_coverage": 1.5064894932014834
+  },
+  "grey-area": {
+    "comment_coverage": 1.5213946117274169
+  },
+  "grimme-lab": {
+    "comment_coverage": 13.560772805086819
+  },
+  "GroenteLepel": {
+    "comment_coverage": 4.260263361735089
+  },
+  "GTorlai": {
+    "comment_coverage": 0.0
+  },
+  "guardiora": {
+    "comment_coverage": 9.051393505497316
+  },
+  "guochu": {
+    "comment_coverage": 1.8788108644280421
+  },
+  "guruvamsi-policharla": {
+    "comment_coverage": 1.5455001952798082
+  },
+  "gxggxl": {
+    "comment_coverage": 3.1261512551970947
+  },
+  "haimengzhao": {
+    "comment_coverage": 0.0
+  },
+  "hande-qmc": {
+    "comment_coverage": 14.369117272958535
+  },
+  "Hanrui-Wang": {
+    "comment_coverage": 2.1505376344086025
+  },
+  "harshangrjn": {
+    "comment_coverage": 2.803954889541171
+  },
+  "hashberg-io": {
+    "comment_coverage": 1.2827090815802977
+  },
+  "hebrewsnabla": {
+    "comment_coverage": 0.5237445534967651
+  },
+  "Hedilict": {
+    "comment_coverage": 0.0
+  },
+  "higher-order-quantum-reservoir": {
+    "comment_coverage": 2.3015542190198297
+  },
+  "hjkgrp": {
+    "comment_coverage": 3.120472528697203
+  },
+  "hongyehu": {
+    "comment_coverage": 0.0
+  },
+  "howecheung": {
+    "comment_coverage": 0.0
+  },
+  "HPQC-LABS": {
+    "comment_coverage": 0.0
+  },
+  "HQSquantumsimulations": {
+    "comment_coverage": 2.6081081081081083
+  },
+  "hrachya-zakaryan": {
+    "comment_coverage": 3.225806451612903
+  },
+  "hsavit1": {
+    "comment_coverage": 0.0
+  },
+  "hsim13372": {
+    "comment_coverage": 0.0
+  },
+  "hsinyuan-huang": {
+    "comment_coverage": 9.426072251619262
+  },
+  "HuangJunye": {
+    "comment_coverage": 0.0
+  },
+  "huangli712": {
+    "comment_coverage": 17.908598605199526
+  },
+  "huckiyang": {
+    "comment_coverage": 2.840909090909091
+  },
+  "HugoStrand": {
+    "comment_coverage": 0.0
+  },
+  "HyQD": {
+    "comment_coverage": 0.7336458121051559
+  },
+  "hywong2": {
+    "comment_coverage": 0.0
+  },
+  "I-am-R-E": {
+    "comment_coverage": 0.0
+  },
+  "IBM": {
+    "comment_coverage": 0.0
+  },
+  "IBM-Quantum-Technical-Enablement": {
+    "comment_coverage": 6.5532223026792185
+  },
+  "iccmr-quantum": {
+    "comment_coverage": 0.0
+  },
+  "ichuang": {
+    "comment_coverage": 1.1952191235059761
+  },
+  "id77": {
+    "comment_coverage": 2.2495982860203534
+  },
+  "IETF-Hackathon": {
+    "comment_coverage": 0.8320914058618977
+  },
+  "IgorBrandao42": {
+    "comment_coverage": 9.042178022288052
+  },
+  "iitis": {
+    "comment_coverage": 2.8380952380952382
+  },
+  "IKEDAKAZUKI": {
+    "comment_coverage": 0.0
+  },
+  "Indi-Quantum-Community": {
+    "comment_coverage": 0.0
+  },
+  "indian-institute-of-science-qc": {
+    "comment_coverage": 5.497898694978987
+  },
+  "indisoluble": {
+    "comment_coverage": 89.80428506148222
+  },
+  "Infleqtion": {
+    "comment_coverage": 2.035094066570188
+  },
+  "inQWIRE": {
+    "comment_coverage": 0.0
+  },
+  "intel": {
+    "comment_coverage": 15.870967741935486
+  },
+  "IntelligentQuantum": {
+    "comment_coverage": 0.0
+  },
+  "ionq": {
+    "comment_coverage": 6.198723792160438
+  },
+  "iqm-finland": {
+    "comment_coverage": 5.270256494703082
+  },
+  "isaracorp": {
+    "comment_coverage": 10.981713662718667
+  },
+  "issp-center-dev": {
+    "comment_coverage": 13.302921690018465
+  },
+  "itsubaki": {
+    "comment_coverage": 3.784074605451937
+  },
+  "itzmeanjan": {
+    "comment_coverage": 13.031550068587105
+  },
+  "IUCVLab": {
+    "comment_coverage": 0.0
+  },
+  "IvanIsCoding": {
+    "comment_coverage": 0.0
+  },
+  "ivanmurashko": {
+    "comment_coverage": 0.0
+  },
+  "Izheil": {
+    "comment_coverage": 3.0650666691367516
+  },
+  "JackHidary": {
+    "comment_coverage": 0.0
+  },
+  "JaGeo": {
+    "comment_coverage": 1.0896309314586996
+  },
+  "JanLahmann": {
+    "comment_coverage": 0.0
+  },
+  "JannickWeisshaupt": {
+    "comment_coverage": 1.7405020260531399
+  },
+  "JarvisLee0423": {
+    "comment_coverage": 0.0
+  },
+  "JavaFXpert": {
+    "comment_coverage": 3.1720872787155208
+  },
+  "Jayshah25": {
+    "comment_coverage": 0.0
+  },
+  "jcmgray": {
+    "comment_coverage": 2.146211817817745
+  },
+  "jcosborn": {
+    "comment_coverage": 0.0
+  },
+  "jd-opensource": {
+    "comment_coverage": 4.049065142312731
+  },
+  "jebej": {
+    "comment_coverage": 4.522722330941509
+  },
+  "Jejz168": {
+    "comment_coverage": 2.4779735682819384
+  },
+  "jfeist": {
+    "comment_coverage": 2.842377260981912
+  },
+  "jiyanjiang": {
+    "comment_coverage": 0.0
+  },
+  "johanvos": {
+    "comment_coverage": 1.7431826026924404
+  },
+  "JohnCoogan": {
+    "comment_coverage": 0.0
+  },
+  "Jone2008": {
+    "comment_coverage": 1.7792011386887285
+  },
+  "JordanovSJ": {
+    "comment_coverage": 0.0
+  },
+  "joselado": {
+    "comment_coverage": 8.072560404166621
+  },
+  "JoSQUANTUM": {
+    "comment_coverage": 0.0
+  },
+  "jpzwolak": {
+    "comment_coverage": 0.0
+  },
+  "JQub": {
+    "comment_coverage": 0.0
+  },
+  "jrick": {
+    "comment_coverage": 2.5109421792213777
+  },
+  "jschanck": {
+    "comment_coverage": 2.4085408587581183
+  },
+  "jtiosue": {
+    "comment_coverage": 11.179401993355482
+  },
+  "juanjosegarciaripoll": {
+    "comment_coverage": 16.288630564218884
+  },
+  "JuliaQuantum": {
+    "comment_coverage": 1.9047619047619049
+  },
+  "JuliaQuantumControl": {
+    "comment_coverage": 2.183025749904731
+  },
+  "JuliaQX": {
+    "comment_coverage": 3.4957627118644066
+  },
+  "jw-12138": {
+    "comment_coverage": 0.0
+  },
+  "jwa7": {
+    "comment_coverage": 0.0
+  },
+  "kareldonk": {
+    "comment_coverage": 4.60873200591535
+  },
+  "kayanouriko": {
+    "comment_coverage": 7.050823192555476
+  },
+  "kemperlab": {
+    "comment_coverage": 3.0846185910796167
+  },
+  "kevinkawchak": {
+    "comment_coverage": 0.0
+  },
+  "kit-cel": {
+    "comment_coverage": 0.0
+  },
+  "kite": {
+    "comment_coverage": 0.0
+  },
+  "kjfx": {
+    "comment_coverage": 0.0
+  },
+  "kjssad": {
+    "comment_coverage": 2.9074529074529076
+  },
+  "KOP-XIAO": {
+    "comment_coverage": 3.49558407408466
+  },
+  "kpdemetriou": {
+    "comment_coverage": 11.891954100802222
+  },
+  "KPRoche": {
+    "comment_coverage": 9.008189262966333
+  },
+  "krishnakumarsekar": {
+    "comment_coverage": 0.0
+  },
+  "kriskwiatkowski": {
+    "comment_coverage": 0.0
+  },
+  "kudelskisecurity": {
+    "comment_coverage": 1.7143764220329119
+  },
+  "kurtsiefer": {
+    "comment_coverage": 21.27393240442429
+  },
+  "kwant-project": {
+    "comment_coverage": 0.0
+  },
+  "KwiatLab": {
+    "comment_coverage": 5.5471660122822914
+  },
+  "langkhach270389": {
+    "comment_coverage": 0.0
+  },
+  "lanl": {
+    "comment_coverage": 6.173929494860314
+  },
+  "lanl-ansi": {
+    "comment_coverage": 0.8809396689802456
+  },
+  "latticesurgery-com": {
+    "comment_coverage": 4.369220786243443
+  },
+  "LauraGentini": {
+    "comment_coverage": 0.0
+  },
+  "lehner": {
+    "comment_coverage": 4.408033503500137
+  },
+  "Leticia-maria": {
+    "comment_coverage": 0.2661343978709248
+  },
+  "LiangYi520": {
+    "comment_coverage": 37.434094903339194
+  },
+  "LiaoChinTe": {
+    "comment_coverage": 4.016469857054071
+  },
+  "libint": {
+    "comment_coverage": 0.0
+  },
+  "liboqs": {
+    "comment_coverage": 14.63498940738879
+  },
+  "libra-code": {
+    "comment_coverage": 0.0
+  },
+  "libtangle": {
+    "comment_coverage": 0.0
+  },
+  "lijikun": {
+    "comment_coverage": 0
+  },
+  "lin-lin": {
+    "comment_coverage": 0.0
+  },
+  "LinkedInLearning": {
+    "comment_coverage": 0.0
+  },
+  "Liu-group": {
+    "comment_coverage": 2.417377087469345
+  },
+  "LiuJPhys": {
+    "comment_coverage": 1.9828680203045685
+  },
+  "liumian97": {
+    "comment_coverage": 7.998521074685729
+  },
+  "Lizaterdag": {
+    "comment_coverage": 0.0
+  },
+  "llens": {
+    "comment_coverage": 3.943452380952381
+  },
+  "LLNL": {
+    "comment_coverage": 4.596580683863227
+  },
+  "lmacken": {
+    "comment_coverage": 5.623242736644799
+  },
+  "lmmentel": {
+    "comment_coverage": 0.0
+  },
+  "lneuhaus": {
+    "comment_coverage": 4.694045678428073
+  },
+  "lockwo": {
+    "comment_coverage": 0.0
+  },
+  "Lonitch": {
+    "comment_coverage": 0.0
+  },
+  "louishrm": {
+    "comment_coverage": 0.0
+  },
+  "LovedGM": {
+    "comment_coverage": 0.0
+  },
+  "lrcfmd": {
+    "comment_coverage": 3.9485229599298037
+  },
+  "LSchatzki": {
+    "comment_coverage": 0.0
+  },
+  "Lubycon": {
+    "comment_coverage": 13.036211699164346
+  },
+  "luca-parisi": {
+    "comment_coverage": 3.0721966205837172
+  },
+  "LuchnikovI": {
+    "comment_coverage": 1.061738104600865
+  },
+  "luqui": {
+    "comment_coverage": 8.648056923918993
+  },
+  "lutqhysky": {
+    "comment_coverage": 0.0
+  },
+  "luxfi": {
+    "comment_coverage": 0.0
+  },
+  "LWKJJONAK": {
+    "comment_coverage": 0.0
+  },
+  "lynkco01": {
+    "comment_coverage": 0.0
+  },
+  "lynnlangit": {
+    "comment_coverage": 0.0
+  },
+  "m-labs": {
+    "comment_coverage": 1.7376160336363689
+  },
+  "maartenvd": {
+    "comment_coverage": 9.814643188137163
+  },
+  "machinelevel": {
+    "comment_coverage": 2.963395306019797
+  },
+  "mapmeld": {
+    "comment_coverage": 1.5793848711554446
+  },
+  "marcobn": {
+    "comment_coverage": 0.0
+  },
+  "mareksubocz": {
+    "comment_coverage": 0.0
+  },
+  "maria-violaris": {
+    "comment_coverage": 0.0
+  },
+  "mariiatuzovska": {
+    "comment_coverage": 2.5135135135135136
+  },
+  "MarioKrenn6240": {
+    "comment_coverage": 0.0
+  },
+  "markusschmitt": {
+    "comment_coverage": 1.295064753237662
+  },
+  "marl0ny": {
+    "comment_coverage": 1.5600955160520031
+  },
+  "Marol62926": {
+    "comment_coverage": 0.0
+  },
+  "marvel-nccr": {
+    "comment_coverage": 0.0
+  },
+  "Matematija": {
+    "comment_coverage": 1.8220042046250877
+  },
+  "materialscloud-org": {
+    "comment_coverage": 0.0
+  },
+  "materialsvirtuallab": {
+    "comment_coverage": 5.756929637526652
+  },
+  "matheusmtta": {
+    "comment_coverage": 0.0
+  },
+  "mathworks": {
+    "comment_coverage": 0.0
+  },
+  "matrixbud": {
+    "comment_coverage": 0.0
+  },
+  "matt-lourens": {
+    "comment_coverage": 5.39160752085668
+  },
+  "matteoacrossi": {
+    "comment_coverage": 0.0
+  },
+  "maximer-v": {
+    "comment_coverage": 0.0
+  },
+  "mayabenowitz": {
+    "comment_coverage": 0.0
+  },
+  "Mc-Zen": {
+    "comment_coverage": 0.0
+  },
+  "MCdasheng": {
+    "comment_coverage": 2.1474921080322695
+  },
+  "mcoggins96": {
+    "comment_coverage": 3.300970873786408
+  },
+  "meamy": {
+    "comment_coverage": 0.0
+  },
+  "MeikelLP": {
+    "comment_coverage": 1.656833277672641
+  },
+  "merzlab": {
+    "comment_coverage": 0.8039638290174842
+  },
+  "metaphorical": {
+    "comment_coverage": 3.941908713692946
+  },
+  "mgg39": {
+    "comment_coverage": 0.0
+  },
+  "mhsmathew": {
+    "comment_coverage": 0.0
+  },
+  "mickahell": {
+    "comment_coverage": 0.0
+  },
+  "microsoft": {
+    "comment_coverage": 0.0
+  },
+  "MicrosoftDocs": {
+    "comment_coverage": 4.301075268817205
+  },
+  "mikeroyal": {
+    "comment_coverage": 0.0
+  },
+  "mindspore-ai": {
+    "comment_coverage": 3.402002764759432
+  },
+  "mit-han-lab": {
+    "comment_coverage": 0.0
+  },
+  "MolSSI": {
+    "comment_coverage": 2.2213949294543167
+  },
+  "MolSSI-BSE": {
+    "comment_coverage": 8.941266281788254
+  },
+  "MonitSharma": {
+    "comment_coverage": 0.0
+  },
+  "monkey6468": {
+    "comment_coverage": 4.208972845336482
+  },
+  "mortele": {
+    "comment_coverage": 23.13034188034188
+  },
+  "mozilla": {
+    "comment_coverage": 4.004106776180698
+  },
+  "mrtkp9993": {
+    "comment_coverage": 8.987968860580326
+  },
+  "MSCNUAN": {
+    "comment_coverage": 0.0
+  },
+  "Mshakir-Git": {
+    "comment_coverage": 11.992129334184217
+  },
+  "mspronesti": {
+    "comment_coverage": 2.822367260539778
+  },
+  "mstechly": {
+    "comment_coverage": 0.0
+  },
+  "mthiim": {
+    "comment_coverage": 0.24589357725976196
+  },
+  "MuonRay": {
+    "comment_coverage": 6.49746192893401
+  },
+  "mupq": {
+    "comment_coverage": 14.226893545934486
+  },
+  "mxgmn": {
+    "comment_coverage": 0.1518987341772152
+  },
+  "mymagicpower": {
+    "comment_coverage": 12.766913509238623
+  },
+  "NanFeng683": {
+    "comment_coverage": 0.0
+  },
+  "nathanieljohnston": {
+    "comment_coverage": 0.0
+  },
+  "nathanshammah": {
+    "comment_coverage": 0.0
+  },
+  "NCKU-QFort": {
+    "comment_coverage": 1.301148600143575
+  },
+  "NECI_STABLE": {
+    "comment_coverage": 0.0
+  },
+  "neilpanchal": {
+    "comment_coverage": 0.0
+  },
+  "NeoKode": {
+    "comment_coverage": 0.6802721088435374
+  },
+  "netket": {
+    "comment_coverage": 4.693885202264462
+  },
+  "Neurogram-R": {
+    "comment_coverage": 5.6481979558902635
+  },
+  "ngnrsaa": {
+    "comment_coverage": 12.090755897929705
+  },
+  "nitesh-prasad": {
+    "comment_coverage": 0.0
+  },
+  "Nix-QChem": {
+    "comment_coverage": 0.0
+  },
+  "node-red-quantum": {
+    "comment_coverage": 5.052243392747388
+  },
+  "NorbertZare": {
+    "comment_coverage": 9.722222222222223
+  },
+  "NTU-ALComLab": {
+    "comment_coverage": 13.80007189561534
+  },
+  "NuclearPhysicsWorkshops": {
+    "comment_coverage": 0.0
+  },
+  "numericalEFT": {
+    "comment_coverage": 5.929995186961645
+  },
+  "numqi": {
+    "comment_coverage": 2.0076954789061423
+  },
+  "NVIDIA": {
+    "comment_coverage": 0.0
+  },
+  "OJB-Quantum": {
+    "comment_coverage": 0.0
+  },
+  "OminiaVincit": {
+    "comment_coverage": 2.3015542190198297
+  },
+  "OnionyTeam": {
+    "comment_coverage": 50.039663652229095
+  },
+  "open-quantum-safe": {
+    "comment_coverage": 14.54215390448308
+  },
+  "openforcefield": {
+    "comment_coverage": 2.3277939870607636
+  },
+  "openqasm": {
+    "comment_coverage": 1.4735833233497064
+  },
+  "openquantumhardware": {
+    "comment_coverage": 0.0
+  },
+  "oqc-community": {
+    "comment_coverage": 1.2762634520120062
+  },
+  "ORCAQuantumChemistry": {
+    "comment_coverage": 0.0
+  },
+  "oreilly-qc": {
+    "comment_coverage": 0.0
+  },
+  "OriginQ": {
+    "comment_coverage": 9.445870057075489
+  },
+  "Orz-3": {
+    "comment_coverage": 1.9730941704035874
+  },
+  "oscarhiggott": {
+    "comment_coverage": 22.03047054064986
+  },
+  "osscar-org": {
+    "comment_coverage": 0.0
+  },
+  "outmansec": {
+    "comment_coverage": 0.0
+  },
+  "ozaner": {
+    "comment_coverage": 2.5210084033613445
+  },
+  "ozwaldorf": {
+    "comment_coverage": 0.0
+  },
+  "p0cisk": {
+    "comment_coverage": 1.8983227148615265
+  },
+  "pablosanjose": {
+    "comment_coverage": 4.9456555365355666
+  },
+  "PacktPublishing": {
+    "comment_coverage": 0.0
+  },
+  "PaddlePaddle": {
+    "comment_coverage": 0.0
+  },
+  "Pamblam": {
+    "comment_coverage": 0.5698005698005698
+  },
+  "panqec": {
+    "comment_coverage": 1.3430715268836302
+  },
+  "pasqal-io": {
+    "comment_coverage": 1.3857874688033627
+  },
+  "paulehoffman": {
+    "comment_coverage": 0.0
+  },
+  "paulmillr": {
+    "comment_coverage": 4.378015770271861
+  },
+  "PaulWAyers": {
+    "comment_coverage": 0.0
+  },
+  "pauxy-qmc": {
+    "comment_coverage": 2.778901552669392
+  },
+  "peastman": {
+    "comment_coverage": 29.523809523809526
+  },
+  "PennyLaneAI": {
+    "comment_coverage": 9.405703599432044
+  },
+  "Perfecto-Quantum": {
+    "comment_coverage": 8.70252164570562
+  },
+  "pfloos": {
+    "comment_coverage": 0.0
+  },
+  "photonmang": {
+    "comment_coverage": 2.4732023738326356
+  },
+  "pittquantum": {
+    "comment_coverage": 4.5602605863192185
+  },
+  "pm936": {
+    "comment_coverage": 3.284363786270413
+  },
+  "pmocz": {
+    "comment_coverage": 5.707762557077626
+  },
+  "pnnl": {
+    "comment_coverage": 0.0
+  },
+  "poig": {
+    "comment_coverage": 0.0
+  },
+  "pouriya73": {
+    "comment_coverage": 0.0
+  },
+  "ppqm": {
+    "comment_coverage": 2.812063344201211
+  },
+  "PQClean": {
+    "comment_coverage": 13.420276352188443
+  },
+  "PQShield": {
+    "comment_coverage": 4.1322393083926245
+  },
+  "pranabdas": {
+    "comment_coverage": 0.0
+  },
+  "pranavdurai10": {
+    "comment_coverage": 14.259597806215721
+  },
+  "praveenb7": {
+    "comment_coverage": 0.0
+  },
+  "ProjectQ-Framework": {
+    "comment_coverage": 4.091697275930863
+  },
+  "projekter": {
+    "comment_coverage": 0.0
+  },
+  "proRamLOGO": {
+    "comment_coverage": 0.0
+  },
+  "psi4": {
+    "comment_coverage": 19.117101803101953
+  },
+  "pykao": {
+    "comment_coverage": 3.4041271275794545
+  },
+  "PyMatching": {
+    "comment_coverage": 22.03047054064986
+  },
+  "pyRiemann": {
+    "comment_coverage": 3.369373899924566
+  },
+  "pyscf": {
+    "comment_coverage": 1.3651493206176404
+  },
+  "Q-Compiler": {
+    "comment_coverage": 0.01737355310878016
+  },
+  "Q-solvers": {
+    "comment_coverage": 11.093379163597676
+  },
+  "Qaintum": {
+    "comment_coverage": 1.6168544830965212
+  },
+  "Qaqarot": {
+    "comment_coverage": 1.5990113840623126
+  },
+  "qBraid": {
+    "comment_coverage": 0.0
+  },
+  "QC-Edu": {
+    "comment_coverage": 9.45273631840796
+  },
+  "qc-tum": {
+    "comment_coverage": 1.5704735155662803
+  },
+  "QC2023-Group-3": {
+    "comment_coverage": 7.361963190184049
+  },
+  "qcc4cp": {
+    "comment_coverage": 12.075471698113208
+  },
+  "qcdb": {
+    "comment_coverage": 5.534146573130521
+  },
+  "QCHackers": {
+    "comment_coverage": 1.258950350145566
+  },
+  "QChASM": {
+    "comment_coverage": 1.6196611508003247
+  },
+  "qchemsoftware": {
+    "comment_coverage": 0.0
+  },
+  "qclib": {
+    "comment_coverage": 3.42673722564414
+  },
+  "QCmonk": {
+    "comment_coverage": 6.825211354732284
+  },
+  "qcserenity": {
+    "comment_coverage": 6.253845413418039
+  },
+  "qcxms": {
+    "comment_coverage": 7.819460726846425
+  },
+  "qc_portfolio_optimization": {
+    "comment_coverage": 0
+  },
+  "qdevpsi3": {
+    "comment_coverage": 0.0
+  },
+  "QE-Lab": {
+    "comment_coverage": 4.586135971982879
+  },
+  "QEF": {
+    "comment_coverage": 0.0
+  },
+  "qgrad": {
+    "comment_coverage": 3.8593481989708405
+  },
+  "qiboteam": {
+    "comment_coverage": 1.2339948397675484
+  },
+  "qigitphannover": {
+    "comment_coverage": 0.0
+  },
+  "qilimanjaro-tech": {
+    "comment_coverage": 7.1782514254683685
+  },
+  "qir-alliance": {
+    "comment_coverage": 4.817000867210591
+  },
+  "Qiskit": {
+    "comment_coverage": 0.0
+  },
+  "qiskit-community": {
+    "comment_coverage": 0.0
+  },
+  "Qiskit-Extensions": {
+    "comment_coverage": 3.369018382966548
+  },
+  "qiskrypt": {
+    "comment_coverage": 0.4883378304557268
+  },
+  "QKDNetSim": {
+    "comment_coverage": 36.835085178508116
+  },
+  "qlan3": {
+    "comment_coverage": 2.465474093984614
+  },
+  "QMCPACK": {
+    "comment_coverage": 8.839399094560497
+  },
+  "qml-benchmarks": {
+    "comment_coverage": 3.1466523753014584
+  },
+  "qmlcode": {
+    "comment_coverage": 5.055672585013542
+  },
+  "qniapp": {
+    "comment_coverage": 0.2116349421738643
+  },
+  "qojulia": {
+    "comment_coverage": 1.2695835949584207
+  },
+  "qonwaygameoflife": {
+    "comment_coverage": 1.8368218709953013
+  },
+  "qosf": {
+    "comment_coverage": 0.0
+  },
+  "qpic": {
+    "comment_coverage": 3.5289637371472096
+  },
+  "QPong": {
+    "comment_coverage": 7.017053396701146
+  },
+  "QPower-Research": {
+    "comment_coverage": 0.0
+  },
+  "qrefine": {
+    "comment_coverage": 2.606949806949807
+  },
+  "qsb-dev": {
+    "comment_coverage": 1.7708963192630809
+  },
+  "qsppack": {
+    "comment_coverage": 0.0
+  },
+  "QTechTheory": {
+    "comment_coverage": 0.03922129389414336
+  },
+  "QTI-TH": {
+    "comment_coverage": 0.0
+  },
+  "qu-tan-um": {
+    "comment_coverage": 0.0
+  },
+  "qua-platform": {
+    "comment_coverage": 1.1733011053201399
+  },
+  "QuAcK": {
+    "comment_coverage": 0.0
+  },
+  "Quandela": {
+    "comment_coverage": 7.010482473793815
+  },
+  "QuanEstimation": {
+    "comment_coverage": 1.6987714242378282
+  },
+  "quantastica": {
+    "comment_coverage": 8.75926106114733
+  },
+  "Quantomatic": {
+    "comment_coverage": 0.0
+  },
+  "quantshah": {
+    "comment_coverage": 0.0
+  },
+  "quantum": {
+    "comment_coverage": 8.125904486251809
+  },
+  "Quantum-Accelerators": {
+    "comment_coverage": 1.0560376525959698
+  },
+  "Quantum-Classical-Hyrid-Neural-Network-for-binary-image-classification-using-PyTorch-Qiskit-pipeline": {
+    "comment_coverage": 0.0
+  },
+  "quantum-compiler": {
+    "comment_coverage": 0.0
+  },
+  "quantum-computing-exploration-for-drug-discovery-on-aws": {
+    "comment_coverage": 7.370336669699727
+  },
+  "quantum-dan": {
+    "comment_coverage": 0.0
+  },
+  "Quantum-Dynamics-Hub": {
+    "comment_coverage": 0.0
+  },
+  "quantum-elixir": {
+    "comment_coverage": 0.0
+  },
+  "Quantum-Flytrap": {
+    "comment_coverage": 13.770270270270272
+  },
+  "Quantum-Game": {
+    "comment_coverage": 0.0
+  },
+  "quantum-journal": {
+    "comment_coverage": 0.0
+  },
+  "quantum-kite": {
+    "comment_coverage": 0.0
+  },
+  "quantum-kittens": {
+    "comment_coverage": 3.1081081081081083
+  },
+  "quantum-machine-learning": {
+    "comment_coverage": 0.0
+  },
+  "Quantum-Manager": {
+    "comment_coverage": 2.5269396551724137
+  },
+  "Quantum-Many-Body": {
+    "comment_coverage": 0.38013531422194324
+  },
+  "quantum-mob": {
+    "comment_coverage": 0.25093169500465695
+  },
+  "Quantum-OCS": {
+    "comment_coverage": 8.739292856873325
+  },
+  "quantum-ods": {
+    "comment_coverage": 0.0
+  },
+  "Quantum-Red": {
+    "comment_coverage": 0.0
+  },
+  "quantum-rose": {
+    "comment_coverage": 0.0
+  },
+  "Quantum-Safe-OpenSSH": {
+    "comment_coverage": 11.580576786823151
+  },
+  "quantum-tinkerer": {
+    "comment_coverage": 4.271775345073774
+  },
+  "quantum-tokyo": {
+    "comment_coverage": 0.0
+  },
+  "Quantum-Universal-Education": {
+    "comment_coverage": 0
+  },
+  "quantum-visualizations": {
+    "comment_coverage": 1.1995167414566794
+  },
+  "Quantumacy": {
+    "comment_coverage": 0.0
+  },
+  "QuantumBFS": {
+    "comment_coverage": 8.152069297401347
+  },
+  "QuantumComputingLab": {
+    "comment_coverage": 0
+  },
+  "quantumdb": {
+    "comment_coverage": 0.7741625556602554
+  },
+  "quantumformalism": {
+    "comment_coverage": 0.0
+  },
+  "quantumgizmos": {
+    "comment_coverage": 3.217821782178218
+  },
+  "quantumjim": {
+    "comment_coverage": 0.0
+  },
+  "quantumlabUB": {
+    "comment_coverage": 5.146351506128621
+  },
+  "quantumlib": {
+    "comment_coverage": 3.273393903314287
+  },
+  "QuantumPackage": {
+    "comment_coverage": 4.711838006230529
+  },
+  "QuantumQuipu": {
+    "comment_coverage": 0.0
+  },
+  "QuantumSavory": {
+    "comment_coverage": 3.5259376332234615
+  },
+  "QuantumServer": {
+    "comment_coverage": 10.164569215876089
+  },
+  "quantumsim": {
+    "comment_coverage": 1.7689188023125377
+  },
+  "QuantumVillage": {
+    "comment_coverage": 0.0655479027659621
+  },
+  "QUARK-framework": {
+    "comment_coverage": 6.051282051282051
+  },
+  "qubekit": {
+    "comment_coverage": 2.1748730404062706
+  },
+  "qubit-science-club": {
+    "comment_coverage": 5.7303521221047
+  },
+  "qubrabench": {
+    "comment_coverage": 0.49714143673875216
+  },
+  "qucat": {
+    "comment_coverage": 0.0
+  },
+  "qudoor": {
+    "comment_coverage": 1.818658023539426
+  },
+  "QuEraComputing": {
+    "comment_coverage": 1.561712846347607
+  },
+  "QuEST-Kit": {
+    "comment_coverage": 22.798023356961743
+  },
+  "quil-lang": {
+    "comment_coverage": 0.0
+  },
+  "qulacs": {
+    "comment_coverage": 0.0
+  },
+  "Qulacs-Osaka": {
+    "comment_coverage": 0.0
+  },
+  "QunaSys": {
+    "comment_coverage": 0.0
+  },
+  "QuSTaR": {
+    "comment_coverage": 4.93609519612164
+  },
+  "QuState": {
+    "comment_coverage": 4.31587585795285
+  },
+  "QutacQuantum": {
+    "comment_coverage": 4.338420862877058
+  },
+  "qutech": {
+    "comment_coverage": 1.1176438465879097
+  },
+  "QuTech-Delft": {
+    "comment_coverage": 2.052550231839258
+  },
+  "qutip": {
+    "comment_coverage": 1.6553707126720065
+  },
+  "qwqmlf": {
+    "comment_coverage": 0.0
+  },
+  "QWWAD": {
+    "comment_coverage": 15.856059783872617
+  },
+  "R-Sweke": {
+    "comment_coverage": 0.0
+  },
+  "RafaelGoulartB": {
+    "comment_coverage": 0.3795066413662239
+  },
+  "RagBagCN": {
+    "comment_coverage": 3.281519861830743
+  },
+  "rakytap": {
+    "comment_coverage": 14.865755591686074
+  },
+  "ray-pH": {
+    "comment_coverage": 0.0
+  },
+  "rdisipio": {
+    "comment_coverage": 3.07909604519774
+  },
+  "redfx-quantum": {
+    "comment_coverage": 14.646313478998305
+  },
+  "refraction-ray": {
+    "comment_coverage": 2.0703070723912744
+  },
+  "rehaanahmad2013": {
+    "comment_coverage": 0.0
+  },
+  "Renmusxd": {
+    "comment_coverage": 5.249043829955599
+  },
+  "rigetti": {
+    "comment_coverage": 2.9104184360303718
+  },
+  "rishab-partha": {
+    "comment_coverage": 0.0
+  },
+  "rmlarose": {
+    "comment_coverage": 0.0
+  },
+  "rodyherrera": {
+    "comment_coverage": 22.759652372132784
+  },
+  "rogercolbeck": {
+    "comment_coverage": 0
+  },
+  "rohanp": {
+    "comment_coverage": 4.910714285714286
+  },
+  "RoninXj": {
+    "comment_coverage": 4.688483322844556
+  },
+  "rosenpass": {
+    "comment_coverage": 5.799194089993284
+  },
+  "rpmuller": {
+    "comment_coverage": 16.642132122027814
+  },
+  "rsln-s": {
+    "comment_coverage": 0.0
+  },
+  "rubenandrebarreiro": {
+    "comment_coverage": 0.0
+  },
+  "rustpq": {
+    "comment_coverage": 9.422655216860008
+  },
+  "S4Plus": {
+    "comment_coverage": 0.0
+  },
+  "SaashaJoshi": {
+    "comment_coverage": 0.0
+  },
+  "salcc": {
+    "comment_coverage": 0.0
+  },
+  "samn33": {
+    "comment_coverage": 0.9519396824059643
+  },
+  "sandbox-quantum": {
+    "comment_coverage": 4.351954941384505
+  },
+  "sanshar": {
+    "comment_coverage": 11.872392496170042
+  },
+  "sbalian": {
+    "comment_coverage": 0.6507592190889371
+  },
+  "SchusterLab": {
+    "comment_coverage": 0.0
+  },
+  "SciML": {
+    "comment_coverage": 0.0
+  },
+  "Scinawa": {
+    "comment_coverage": 5.0
+  },
+  "scottwn": {
+    "comment_coverage": 0.4021202705172729
+  },
+  "SebWouters": {
+    "comment_coverage": 5.259532986318062
+  },
+  "SEDSCelestiaBPGC": {
+    "comment_coverage": 2.4906865353911654
+  },
+  "Semporia": {
+    "comment_coverage": 0.9173527210520689
+  },
+  "sequence-toolbox": {
+    "comment_coverage": 46.00526777875329
+  },
+  "sequencing-dev": {
+    "comment_coverage": 1.6340373053799908
+  },
+  "serenity": {
+    "comment_coverage": 6.253845413418039
+  },
+  "sfc-aqua": {
+    "comment_coverage": 0.0
+  },
+  "shankar1729": {
+    "comment_coverage": 3.2334384858044163
+  },
+  "shareloqs": {
+    "comment_coverage": 0.9983647473965056
+  },
+  "Shi-aqi": {
+    "comment_coverage": 1.0638297872340425
+  },
+  "shinmorino": {
+    "comment_coverage": 7.47964942394216
+  },
+  "shmegb": {
+    "comment_coverage": 0.0
+  },
+  "Shmoo137": {
+    "comment_coverage": 0.0
+  },
+  "shuaigroup": {
+    "comment_coverage": 2.5538190385410857
+  },
+  "sirmarcel": {
+    "comment_coverage": 1.7508754377188593
+  },
+  "sissaschool": {
+    "comment_coverage": 4.404470149008289
+  },
+  "Sliverkiss": {
+    "comment_coverage": 1.3871473354231973
+  },
+  "slohani-ai": {
+    "comment_coverage": 0.0
+  },
+  "slowy07": {
+    "comment_coverage": 0.0
+  },
+  "SnowflurrySDK": {
+    "comment_coverage": 1.320204874602614
+  },
+  "softberg": {
+    "comment_coverage": 3.3177954483136824
+  },
+  "softwareQinc": {
+    "comment_coverage": 0.0
+  },
+  "SoftwareQuTech": {
+    "comment_coverage": 4.369507257825615
+  },
+  "solikethis": {
+    "comment_coverage": 0.0
+  },
+  "songyangzz": {
+    "comment_coverage": 4.061409630146546
+  },
+  "sophchoe": {
+    "comment_coverage": 0.0
+  },
+  "sphincs": {
+    "comment_coverage": 18.86644627467467
+  },
+  "splch": {
+    "comment_coverage": 0.0
+  },
+  "Spooky-Manufacturing": {
+    "comment_coverage": 46.07924370236068
+  },
+  "sQUlearn": {
+    "comment_coverage": 1.4982892130379974
+  },
+  "SRI-International": {
+    "comment_coverage": 0.0
+  },
+  "SSCHAcode": {
+    "comment_coverage": 4.611583515188
+  },
+  "sshi27": {
+    "comment_coverage": 1.0212700606619058
+  },
+  "stafford-computing": {
+    "comment_coverage": 1.9613498702047882
+  },
+  "stanfordLINQS": {
+    "comment_coverage": 2.2714803028640405
+  },
+  "stared": {
+    "comment_coverage": 0
+  },
+  "stefnotch": {
+    "comment_coverage": 6.354932704315249
+  },
+  "stephenhky": {
+    "comment_coverage": 10.176531671858775
+  },
+  "stewdio": {
+    "comment_coverage": 7.72085665612071
+  },
+  "Strilanc": {
+    "comment_coverage": 13.218390804597702
+  },
+  "style-qgan": {
+    "comment_coverage": 0.0
+  },
+  "stylewarning": {
+    "comment_coverage": 0.0
+  },
+  "sumeetkhatri": {
+    "comment_coverage": 3.7910762737413326
+  },
+  "sunqm": {
+    "comment_coverage": 2.061425672369677
+  },
+  "superstar54": {
+    "comment_coverage": 1.497069118205204
+  },
+  "sve1r": {
+    "comment_coverage": 0.5594257347615375
+  },
+  "sw1sh": {
+    "comment_coverage": 0.01918451283622036
+  },
+  "SwiftQuantumComputing": {
+    "comment_coverage": 89.73946050184574
+  },
+  "symbolicsoft": {
+    "comment_coverage": 2.586619830752036
+  },
+  "TeacherGaming": {
+    "comment_coverage": 2.5897571277719114
+  },
+  "TeamGraphix": {
+    "comment_coverage": 1.3054111892387648
+  },
+  "Technus": {
+    "comment_coverage": 2.2533934403834928
+  },
+  "tempoCollaboration": {
+    "comment_coverage": 0.0
+  },
+  "tencent-quantum-lab": {
+    "comment_coverage": 0.0
+  },
+  "TensorBFS": {
+    "comment_coverage": 1.0910134941142693
+  },
+  "tensorflow": {
+    "comment_coverage": 4.258788848119924
+  },
+  "tensorly": {
+    "comment_coverage": 1.7659574468085106
+  },
+  "tequilahub": {
+    "comment_coverage": 1.21091927204853
+  },
+  "terra-quantum-public": {
+    "comment_coverage": 3.8194257393740236
+  },
+  "theerfan": {
+    "comment_coverage": 0.0
+  },
+  "theochem": {
+    "comment_coverage": 6.763987739622837
+  },
+  "theQRL": {
+    "comment_coverage": 1.6502973973434796
+  },
+  "thermo_pw": {
+    "comment_coverage": 0.0
+  },
+  "thosgood": {
+    "comment_coverage": 0
+  },
+  "thu-pacman": {
+    "comment_coverage": 7.280321455006873
+  },
+  "TigrisCallidus": {
+    "comment_coverage": 0.0
+  },
+  "TitleOS": {
+    "comment_coverage": 4.487179487179487
+  },
+  "tmancal74": {
+    "comment_coverage": 5.167712836890878
+  },
+  "tomdbar": {
+    "comment_coverage": 7.01523671322329
+  },
+  "Toperlock": {
+    "comment_coverage": 0
+  },
+  "tqsd": {
+    "comment_coverage": 1.2111731843575417
+  },
+  "TREX-CoE": {
+    "comment_coverage": 31.155778894472363
+  },
+  "triqs": {
+    "comment_coverage": 0.0
+  },
+  "txhaug": {
+    "comment_coverage": 0.0
+  },
+  "TY1ung": {
+    "comment_coverage": 3.6453377735490013
+  },
+  "unimauro": {
+    "comment_coverage": 0.0
+  },
+  "uniqueque": {
+    "comment_coverage": 6.564729867482161
+  },
+  "unitaryfund": {
+    "comment_coverage": 5.331475382146778
+  },
+  "USCCACS": {
+    "comment_coverage": 9.492652632093694
+  },
+  "USCqserver": {
+    "comment_coverage": 0.0
+  },
+  "usnistgov": {
+    "comment_coverage": 1.8575851393188854
+  },
+  "UTokyo-ICEPP": {
+    "comment_coverage": 4.047039740470398
+  },
+  "v-sivak": {
+    "comment_coverage": 4.829268292682927
+  },
+  "ValeevGroup": {
+    "comment_coverage": 10.207493434922513
+  },
+  "Vashistha-1802": {
+    "comment_coverage": 47.05882352941176
+  },
+  "veorq": {
+    "comment_coverage": 0.0
+  },
+  "vinayak2019": {
+    "comment_coverage": 0.0
+  },
+  "vprusso": {
+    "comment_coverage": 2.461938514448685
+  },
+  "VQE": {
+    "comment_coverage": 0.0
+  },
+  "w37fhy": {
+    "comment_coverage": 1.5514799553059904
+  },
+  "WagnerGroup": {
+    "comment_coverage": 2.681163713930201
+  },
+  "wangleiphy": {
+    "comment_coverage": 0.7684918347742555
+  },
+  "webqit": {
+    "comment_coverage": 2.3390784382694334
+  },
+  "websemantics": {
+    "comment_coverage": 0.0
+  },
+  "weiyesing": {
+    "comment_coverage": 10.818713450292398
+  },
+  "wg-quantum": {
+    "comment_coverage": 0
+  },
+  "Winter-Soren": {
+    "comment_coverage": 15.306122448979592
+  },
+  "wmazin": {
+    "comment_coverage": 0.0
+  },
+  "WMD-group": {
+    "comment_coverage": 6.166495375128469
+  },
+  "womanium-quantum": {
+    "comment_coverage": 0.0
+  },
+  "WonJoon-Yun": {
+    "comment_coverage": 0.7401315789473684
+  },
+  "wonmor": {
+    "comment_coverage": 5.561341387210997
+  },
+  "wztzjhn": {
+    "comment_coverage": 7.9190497140343155
+  },
+  "XanaduAI": {
+    "comment_coverage": 6.225157988047239
+  },
+  "xiaoyu2018": {
+    "comment_coverage": 4.943404943404944
+  },
+  "xuandrew": {
+    "comment_coverage": 5.2027062463942935
+  },
+  "xwxiewu": {
+    "comment_coverage": 0.0
+  },
+  "xx-labs": {
+    "comment_coverage": 5.771445020149684
+  },
+  "yambo-code": {
+    "comment_coverage": 4.672654715279408
+  },
+  "yangtingxiao": {
+    "comment_coverage": 0.0
+  },
+  "yardstiq": {
+    "comment_coverage": 0.0
+  },
+  "yawenchim": {
+    "comment_coverage": 6.553147574819401
+  },
+  "yezhengkai": {
+    "comment_coverage": 0.0
+  },
+  "yifan1207": {
+    "comment_coverage": 10.136897001303781
+  },
+  "yongshanding": {
+    "comment_coverage": 5.374764767980906
+  },
+  "yqc007": {
+    "comment_coverage": 3.4494948953903175
+  },
+  "yuanhangzhang98": {
+    "comment_coverage": 3.4689205846099664
+  },
+  "yuewuo": {
+    "comment_coverage": 5.318187506082895
+  },
+  "yunseo-kim": {
+    "comment_coverage": 0.0
+  },
+  "yurialexeev": {
+    "comment_coverage": 0.0
+  },
+  "yutuer21": {
+    "comment_coverage": 0.0
+  },
+  "yyn618": {
+    "comment_coverage": 1.0043362211916185
+  },
+  "zapata-engineering": {
+    "comment_coverage": 1.0278220804536595
+  },
+  "zapatacomputing": {
+    "comment_coverage": 2.745685696331029
+  },
+  "zlatko-minev": {
+    "comment_coverage": 0.0
+  },
+  "zoran-cuckovic": {
+    "comment_coverage": 5.784566999887678
+  },
+  "zqzess": {
+    "comment_coverage": 3.2780250910562527
+  }
+}

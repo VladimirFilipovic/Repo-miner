@@ -10,7 +10,7 @@ interface RepoChallenges {
 }
 
 interface ClassChallenges {
-  [mainClass: string]: RepoChallenges[];
+  [mainClass: string]: Array<{ [key: string]: string[] }>;
 }
 
 // Function to read JSON files
@@ -35,7 +35,7 @@ function groupChallengesByClass({
   const repoClassification: RepoClassification = readJSON(
     repoClassificationFile
   );
-  const repoChallenges: RepoChallenges = readJSON(repoChallengesFile);
+  let repoChallenges: RepoChallenges = readJSON(repoChallengesFile);
 
   const classChallenges: ClassChallenges = {};
 
@@ -44,10 +44,12 @@ function groupChallengesByClass({
     if (repo in repoClassification) {
       const mainClass = repoClassification[repo][0];
 
+      const repoChallenge = repoChallenges[repo];
+
       if (!(mainClass in classChallenges)) {
-        classChallenges[mainClass] = [repoChallenges];
+        classChallenges[mainClass] = [{ [repo]: repoChallenge }];
       } else if (repoChallenges[repo]?.length > 0) {
-        classChallenges[mainClass].push(repoChallenges);
+        classChallenges[mainClass].push({ [repo]: repoChallenge });
       } else {
         console.log("wtf", repoChallenges[repo]);
       }
@@ -55,6 +57,10 @@ function groupChallengesByClass({
   }
 
   for (const mainClass in classChallenges) {
+    if (mainClass === "Quantum Approximate Optimization Algorithm (QAOA)") {
+      console.log({ mainClass });
+      console.log(classChallenges[mainClass]);
+    }
     console.log(`Grouped challenges saved for ${mainClass}`);
     saveJSON(
       `../extracted-data/${mainClass}_repo_challenges.json`,

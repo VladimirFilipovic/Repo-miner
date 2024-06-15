@@ -44,10 +44,16 @@ function groupChallengesByClass({
     if (repo in repoClassification) {
       const mainClass = repoClassification[repo][0];
 
+      console.log({ repo });
+      console.log({ mainClass });
+      console.log(repoChallenges[repo]);
+
       if (!(mainClass in classChallenges)) {
         classChallenges[mainClass] = repoChallenges[repo];
-      } else {
+      } else if (repoChallenges[repo]?.length > 0) {
         classChallenges[mainClass].push(...repoChallenges[repo]);
+      } else {
+        console.log("wtf", repoChallenges[repo]);
       }
     }
   }

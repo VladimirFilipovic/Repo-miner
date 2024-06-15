@@ -1,0 +1,8 @@
+[
+    "Handling cached multiplication table for group theory",
+    "Stricter equality testing for unitary parts",
+    "Generating new elements and extending subgroups",
+    "Ensuring correct shape and phase symmetry for models",
+    "Accounting for various symmetries in high-dimensional lattice models",
+    "Errors in random matrix generation with symmetry constraints"
+]

@@ -44,10 +44,6 @@ function groupChallengesByClass({
     if (repo in repoClassification) {
       const mainClass = repoClassification[repo][0];
 
-      console.log({ repo });
-      console.log({ mainClass });
-      console.log(repoChallenges[repo]);
-
       if (!(mainClass in classChallenges)) {
         classChallenges[mainClass] = repoChallenges[repo];
       } else if (repoChallenges[repo]?.length > 0) {
@@ -60,7 +56,10 @@ function groupChallengesByClass({
 
   for (const mainClass in classChallenges) {
     console.log(`Grouped challenges saved for ${mainClass}`);
-    saveJSON(`../extracted-data/${mainClass}_challenges`, classChallenges);
+    saveJSON(
+      `../extracted-data/${mainClass}_challenges.json`,
+      classChallenges[mainClass]
+    );
   }
 }
 

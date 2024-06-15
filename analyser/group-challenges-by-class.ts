@@ -10,7 +10,7 @@ interface RepoChallenges {
 }
 
 interface ClassChallenges {
-  [mainClass: string]: string[];
+  [mainClass: string]: RepoChallenges[];
 }
 
 // Function to read JSON files
@@ -45,9 +45,9 @@ function groupChallengesByClass({
       const mainClass = repoClassification[repo][0];
 
       if (!(mainClass in classChallenges)) {
-        classChallenges[mainClass] = repoChallenges[repo];
+        classChallenges[mainClass] = [repoChallenges];
       } else if (repoChallenges[repo]?.length > 0) {
-        classChallenges[mainClass].push(...repoChallenges[repo]);
+        classChallenges[mainClass].push(repoChallenges);
       } else {
         console.log("wtf", repoChallenges[repo]);
       }
@@ -57,7 +57,7 @@ function groupChallengesByClass({
   for (const mainClass in classChallenges) {
     console.log(`Grouped challenges saved for ${mainClass}`);
     saveJSON(
-      `../extracted-data/${mainClass}_challenges.json`,
+      `../extracted-data/${mainClass}_repo_challenges.json`,
       classChallenges[mainClass]
     );
   }

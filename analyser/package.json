@@ -4,6 +4,7 @@
     "@types/fs-extra": "^11.0.4",
     "@types/glob": "^8.1.0",
     "@types/jaro-winkler": "^0.2.3",
+    "@types/lodash": "^4.17.5",
     "@types/node": "^20.13.0",
     "typescript": "^5.4.5"
   },
@@ -13,8 +14,11 @@
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
     "glob": "^10.4.1",
+    "gpt-3-encoder": "^1.1.4",
     "jaro-winkler": "^0.2.8",
     "linguist-js": "^2.7.1",
-    "natural": "^7.0.6"
+    "lodash": "^4.17.21",
+    "natural": "^7.0.6",
+    "openai": "^4.51.0"
   }
 }
